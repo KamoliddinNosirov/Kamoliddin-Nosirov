@@ -25,7 +25,7 @@
 
 
 
-## 🚀 Tech Insights
+##                                                     🚀 Tech Insights
 
 <div align="center">
 
